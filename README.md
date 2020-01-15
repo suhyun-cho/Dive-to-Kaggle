@@ -15,6 +15,6 @@
 * Costa Rican Household Poverty Level Prediction
 
 * NewYork Taxi Trip Duration
- * EDA-Baseline-Model
- * A Practical Guide to NY Taxi Data
+  * EDA-Baseline-Model
+  * A Practical Guide to NY Taxi Data
  
