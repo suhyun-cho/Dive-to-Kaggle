@@ -18,3 +18,5 @@
   * EDA-Baseline-Model
   * A Practical Guide to NY Taxi Data
  
+> ### Instacart Market Basket Analysis
+  * Simple Exploration
