@@ -20,3 +20,4 @@
  
 > ### Instacart Market Basket Analysis
   * Simple Exploration
+  * Customer Segments with PCA
