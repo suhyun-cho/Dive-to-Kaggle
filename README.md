@@ -8,12 +8,14 @@
 > * Titanic tutorial_02 
   
 ### Home credit default risk
+> * Home Credit Default Risk
 
 ### Porto Seguro's Safe Driver Prediction
 > * Interactive Porto Insights
 > * Safe Driver Prediction
   
 ### Costa Rican Household Poverty Level Prediction
+> * Household-poverty-level
 
 ### NewYork Taxi Trip Duration
 > * EDA-Baseline-Model
