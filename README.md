@@ -22,3 +22,7 @@
 > ### Instacart Market Basket Analysis
   * Simple Exploration
   * Customer Segments with PCA
+
+> ### Zillow prize
+  * Zillow Prize-Simple Exploration 
+  
