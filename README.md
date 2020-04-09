@@ -27,4 +27,6 @@
 
 ### Zillow prize
 > * Zillow Prize-Simple Exploration 
+> * EDA On Missing Values & Multicollinearity
+> * Simple-XGBoost-Starter
   
