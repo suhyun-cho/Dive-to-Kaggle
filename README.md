@@ -28,7 +28,13 @@
 ### Zillow prize
 > * Zillow Prize-Simple Exploration 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > * EDA On Missing Values & Multicollinearity  
+=======
+> * EDA On Missing Values & Multicollinearity
+> * Simple-XGBoost-Starter
+  
+>>>>>>> 07999185860b98479ff2ecfc613830e4f94680a8
 =======
 > * EDA On Missing Values & Multicollinearity
 > * Simple-XGBoost-Starter
