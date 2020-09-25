@@ -29,4 +29,7 @@
 > * Zillow Prize-Simple Exploration 
 > * EDA On Missing Values & Multicollinearity  
 > * Simple-XGBoost-Starter
-  
+
+### House prices
+> * Comprehensive Data Exploration with Python
+> * House Prices EDA  
