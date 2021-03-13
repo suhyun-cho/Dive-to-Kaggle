@@ -1,7 +1,7 @@
 
 ## EDA와 Feature-engineering을 통한 대출 상환여부 예측
 
-#### reference
+#### reference (원본 노트북 및 참고 사이트)
 * Home Credit Default Risk - A Gentle Introduction <br>
 
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction <br>
